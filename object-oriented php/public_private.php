@@ -27,3 +27,6 @@ $mercedes -> setModel("Mercedes benz");
 //Gets the car’s model
 echo $mercedes -> getModel();
 ?>
+
+
+
